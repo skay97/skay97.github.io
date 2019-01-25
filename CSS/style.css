@@ -44,6 +44,7 @@ img{
 }
 p{
     margin-top:25px;
+    margin-left:143px;
 }
 .card-body{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -69,6 +70,10 @@ p{
 .container{
     margin-bottom:30px;
 }
-.form-group{
-    margin-top:20px;
+.info{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.info-heading{
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
